@@ -82,7 +82,7 @@ input{
 
 .div-y-img {
   height: auto;
-  min-width: 50px;
+  min-width: 100px;
   flex-shrink: 0;
 }
 
