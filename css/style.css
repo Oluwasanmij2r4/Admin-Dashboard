@@ -81,9 +81,9 @@ input{
 }
 
 .div-y-img {
-  flex-grow: 1;
   height: auto;
   min-width: 50px;
+  flex-shrink: 0;
 }
 
 .header-text{
